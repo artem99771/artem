@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Гидравлический расчет тепловой сети
+Comment=Программа для гидравлического расчета тепловых сетей
+Exec=python3 /workspace/thermal_network_calculator.py
+Icon=/workspace/calculator_icon.png
+Terminal=false
+Categories=Application;Engineering;
